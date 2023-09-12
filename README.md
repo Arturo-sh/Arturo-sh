@@ -1,6 +1,15 @@
-### Hi there 👋
+### 👋 Hola mundo! 💻
 
-## My name is Arturo and i am a passionate about free software technologies
+## Acerca de mi
+Mi nombre es **Arturo Salas Hernández**, actualmente soy estudiante de ingeniería en Sistemas Computacionales y he creado este perfil para subir algunos de los proyectos que he realizado a lo largo de mi formación profesional.
+
+Tengo claro que cualquier proyecto existente y/o próximo a existir, nacen de pequeñas ideas formuladas a partir de problemas cotidianos, es por eso que siempre que tengo en mente algún proyecto me gusta dejar fluir las ideas y trabajar arduamente hasta convertir el sueño en realidad. Ciertamente la mayoría de mis trabajos han sido personales y por ende los he realizado en solitario pero en lo personal también me agrada la idea de trabajar en equipo porque sé que así se crean los grandes proyectos.
+
+Realmente me siento muy emocionado del rumbo que está tomando la tecnología en nuestras vidas, día con día millones de personas alrededor del mundo contribuyen a la sociedad de múltiples formas, algunos crean nuevos productos mientras que otros brindan bienes o servicios, pero indudablemente muchas de estas contribuciones tienen algo en común que las une, son hechas para mejorar el bienestar y estilo de vida de las personas.
+
+Así que, si de casualidad llegaste hasta aquí te invito a visitar más detalladamente mi perfil, tal vez encuentres algo útil por ahí. Mientras tanto, trataré de seguir aportando al desarrollo de software aunque sea con "pequeños granos de arena".
+
+
 <!--
 **Arturo-sh/Arturo-sh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
